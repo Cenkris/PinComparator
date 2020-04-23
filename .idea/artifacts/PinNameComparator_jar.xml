@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PinNameComparator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PinNameComparator_jar</output-path>
+    <root id="archive" name="PinNameComparator.jar">
+      <element id="module-output" name="PinNameComparator" />
+    </root>
+  </artifact>
+</component>
